@@ -1,0 +1,92 @@
+header {
+    size: 100%;
+}
+
+header img {
+    width: 100%;
+    height: 80px;
+}
+
+header div {
+    margin-top: -30px;
+}
+
+header ul {
+    list-style-type: none;
+}
+
+#Menu {
+    color: white;
+    text-shadow: 1px 1px 1px black;
+    text-decoration: none;
+    font-size: 30px;
+
+    position: absolute;
+    text-align: center;
+    min-width: 110px;
+    left: 43.5%;
+    top: 7%;
+    padding: 65px;
+    outline-offset: 8px;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+
+}
+
+#Memes {
+    color: white;
+    text-shadow: 1px 1px 1px black;
+    text-decoration: none;
+    font-size: 30px;
+
+    position: absolute;
+    text-align: center;
+    min-width: 110px;
+    left: 56%;
+    top: 7%;
+    padding: 65px;
+    outline-offset: 8px;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    
+}
+
+#About {
+    color: white;
+    text-shadow: 1px 1px 1px black;
+    text-decoration: none;
+    font-size: 30px;
+
+    position: absolute;
+    text-align: center;
+    min-width: 110px;
+    left: 50%;
+    top: 7%;
+    padding: 65px;
+    outline-offset: 8px;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    
+}
+
+
+body {
+    background: rgb(197, 185, 185);
+}
+
+div h1 {
+    color: white;
+    text-align: center;
+    text-shadow: 0 0 6px black;
+
+    margin-top: 50px;
+}
+
+div img {
+
+    display: block;
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
